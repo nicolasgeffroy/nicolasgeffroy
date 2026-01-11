@@ -1,37 +1,20 @@
-**<p  style="text-align:center;"><span style="font-size: 1.8em; text-align: center;"> :) On my way to solve disinformation and human communication I guess :) </span></p>**
+**<p style="text-align:center;"> <span style="font-size: 2.8em; text-align: center;"> 😃 On my way to solve disinformation and human communication I guess 😃 </span> </p>**
 
-<div style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 20px 0;
-    font-family: Arial, sans-serif;
-">
-    <div style="
-        width: 550px;
-        height: 75px;
-        background-color: #d3d3d318;
-        border-radius: 15px;
-        padding: 10px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.16);
-        text-align: center;
-        color: #333;
-        font-size: 16px;
-    ">
-        <!-- Replace this with your content -->
+<div style="display: flex;justify-content: center;align-items: center;margin: 20px 0;font-family: Arial, sans-serif;">
+    <div style="width: 550px;height: 75px;background-color: #d3d3d318;border-radius: 15px;padding: 10px;box-shadow: 0 4px 8px rgba(0, 0, 0, 0.16);text-align: center;color: #333;font-size: 16px;">
         <p> Hello ! My name is Nicolas Geffroy, a Data Scientist interested by Natural Langage Processing and its application for the fight against disinformation and the comprehension of human communication.  </p>
     </div>
 </div>
 <center>
-
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#) [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
-[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)  [![](https://img.shields.io/badge/RShiny-blue?style=flat&logo=RStudio&logoColor=blue)](https://shiny.posit.co)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![](https://img.shields.io/badge/Nextflow-0DC09D?logo=nextflow&logoColor=fff&style=flat-square)](https://www.nextflow.io)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/nicolas-geffroy-research/]) [![Email](https://img.shields.io/badge/Email-Me-D14836)](mailto:[nico.geffroy.pro@gmail.com])
-
+    
+    [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#) [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
+    [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)  [![](https://img.shields.io/badge/RShiny-blue?style=flat&logo=RStudio&logoColor=blue)](https://shiny.posit.co)
+    [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+    [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+    [![](https://img.shields.io/badge/Nextflow-0DC09D?logo=nextflow&logoColor=fff&style=flat-square)](https://www.nextflow.io)
+    
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/nicolas-geffroy-research/]) [![Email](https://img.shields.io/badge/Email-Me-D14836)](mailto:[nico.geffroy.pro@gmail.com])
+    
 </center>
 
 ## 👨‍💻 As a Data Scientist...
