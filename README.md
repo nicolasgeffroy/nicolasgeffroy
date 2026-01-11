@@ -1,21 +1,22 @@
-**<p style="text-align:center;"> <span style="font-size: 2.8em; text-align: center;"> 😃 On my way to solve disinformation and human communication I guess 😃 </span> </p>**
+# **<p align="center"> 😃 On my way to solve disinformation and human communication I guess 😃 </p>**
 
-<div style="display: flex;justify-content: center;align-items: center;margin: 20px 0;font-family: Arial, sans-serif;">
-    <div style="width: 550px;height: 75px;background-color: #d3d3d318;border-radius: 15px;padding: 10px;box-shadow: 0 4px 8px rgba(0, 0, 0, 0.16);text-align: center;color: #333;font-size: 16px;">
-        <p> Hello ! My name is Nicolas Geffroy, a Data Scientist interested by Natural Langage Processing and its application for the fight against disinformation and the comprehension of human communication.  </p>
-    </div>
+```mermaid
+graph TD;
+    A[<div style='width:500px; text-align\:center;'>Hello ! My name is Nicolas Geffroy, a Data Scientist interested by Natural Langage Processing and its application for the fight against disinformation and the comprehension of human communication.</div>]
+    style A fill:white,color:black,radius:10px;
+    linkStyle default stroke-width:0;
+```
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#) [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)  [![](https://img.shields.io/badge/RShiny-blue?style=flat&logo=RStudio&logoColor=blue)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![](https://img.shields.io/badge/Nextflow-0DC09D?logo=nextflow&logoColor=fff&style=flat-square)](#)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/nicolas-geffroy-research/]) [![Email](https://img.shields.io/badge/Email-Me-D14836)](mailto:[nico.geffroy.pro@gmail.com])
 </div>
-<center>
-    
-    [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#) [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
-    [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)  [![](https://img.shields.io/badge/RShiny-blue?style=flat&logo=RStudio&logoColor=blue)](https://shiny.posit.co)
-    [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-    [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-    [![](https://img.shields.io/badge/Nextflow-0DC09D?logo=nextflow&logoColor=fff&style=flat-square)](https://www.nextflow.io)
-    
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/nicolas-geffroy-research/]) [![Email](https://img.shields.io/badge/Email-Me-D14836)](mailto:[nico.geffroy.pro@gmail.com])
-    
-</center>
 
 ## 👨‍💻 As a Data Scientist...
 
@@ -26,9 +27,7 @@ For reproducibility, I mainly use **Nextflow** (for workflow system) **Docker** 
 
 ## 📝 Projects
 
-<span>   
-<a href="https://github.com/nicolasgeffroy/agrocam_agro_chara", style="color:black;font-size:20px">Agrocam_agro_chara </a>
-</span>  🌳📸📈
+### [Agrocam_agro_chara](https://github.com/nicolasgeffroy/agrocam_agro_chara) 🌳📸📈
 
 *Extracts and predicts agronomic parameters from vineyard images*
 
@@ -37,18 +36,14 @@ For reproducibility, I mainly use **Nextflow** (for workflow system) **Docker** 
 - Blocks can be **used separately** (with the Core block)
 - Performance => Segmentation : 0.72 (IoU) /// Prediction : 0.06 (MSE)
 
-<span>   
-<a href="https://github.com/raphaelrubrice/ReproHackathon_G6", style="color:black;font-size:20px">ReproHackathon_G6 </a>
-</span>  🔃🧬📄
+### [ReproHackathon_G6](https://github.com/raphaelrubrice/ReproHackathon_G6) 🔃🧬📄
 
 *Reproduce part of the results shown in the paper [Intracellular Staphylococcus aureus persisters upon antibiotic exposure](https://doi.org/10.1038/s41467-020-15966-7)*
 
 - Consist of a **Nextflow pipeline** of an RNA-Seq analysis, consisting of steps of trimming, mapping, counting and stat analysis.
 - Each step of the analysis is linked to a **docker** environment.
 
-<span>   
-<a href="https://github.com/JhonatanFelix/Projet_fil_rouge_2024", style="color:black;font-size:20px">Projet_fil_rouge_2024 </a>
-</span>  🌾
+### [Projet_fil_rouge_2024](https://github.com/JhonatanFelix/Projet_fil_rouge_2024) 🌾🧬⚠️
 
 *Various analysis to highlight genes which plays a role in stress response*
 
