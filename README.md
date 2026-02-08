@@ -49,5 +49,7 @@ For reproducibility, I mainly use **Nextflow** (for workflow system) **Docker** 
 
 ## ❓ And after ?
 
-- Interested in the analysis of the [CID database](https://www.ortolang.fr/market/corpora/sldr000027) because of its interdisciplinarity and the great number of NLP task that it offer.
+- Keep updating the [Agrocam_agro_chara](https://github.com/nicolasgeffroy/agrocam_agro_chara) repository.
+- Starting a project around analysing French National Assembly debates.
+- Starting a project to replace the bookmarks bar (in web browser) into an easier to use and less clutered interface.
 - **Looking for a PhD in NLP applied to the fight against disinformation** or other NLP application.
