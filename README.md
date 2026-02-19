@@ -1,9 +1,9 @@
-# **<p align="center"> 😃 On my way to solve disinformation and human communication I guess 😃 </p>**
+# **<p align="center"> 🏥🌳 Data science for Research and Innovation 📰🗣️ </p>**
 
 ```mermaid
 graph TD;
-    A[<div style='width:500px; text-align\:center;'>Hello ! My name is Nicolas Geffroy, a Data Scientist interested by Natural Langage Processing and its application for the fight against disinformation and the comprehension of human communication.</div>]
-    style A fill:white,color:black,radius:10px;
+    A[<div style='width:800px; text-align\:center;'>Hello ! My name is Nicolas Geffroy, a Data Scientist interested by Natural Langage Processing and its application to fight disinformation, to understand human communication, to fight global warming and to help the medical sector. </div>]
+    style A fill:white,color:black,radius:16px;
     linkStyle default stroke-width:0;
 ```
 
