@@ -25,9 +25,9 @@ I especially like working with **time series**, **images** and **text** and the 
 My programming langage are **Python** (torch, sklearn...), **R** (Tidyverse, Rshiny...), **SQL**.   
 For reproducibility, I mainly use **Nextflow** (for workflow system) **Docker** (for environment management) and of course **GitHub** (for storing and sharing my codes).
 
-## 📝 Projects
+## 📝 Projects (earliest to latest)
 
-### [Agrocam_agro_chara](https://github.com/nicolasgeffroy/agrocam_agro_chara) 🌳📸📈
+### [Agrocam_agro_chara](https://github.com/nicolasgeffroy/agrocam_agro_chara) 🌳📸📈 (**STILL ONGOING**)
 
 *Extracts and predicts agronomic parameters from vineyard images*
 
@@ -36,23 +36,23 @@ For reproducibility, I mainly use **Nextflow** (for workflow system) **Docker** 
 - Blocks can be **used separately** (with the Core block)
 - Performance => Segmentation : 0.72 (IoU) /// Prediction : 0.06 (MSE)
 
-### [ReproHackathon_G6](https://github.com/raphaelrubrice/ReproHackathon_G6) 🔃🧬📄
-
-*Reproduce part of the results shown in the paper [Intracellular Staphylococcus aureus persisters upon antibiotic exposure](https://doi.org/10.1038/s41467-020-15966-7)*
-
-- Consist of a **Nextflow pipeline** of an RNA-Seq analysis, consisting of steps of trimming, mapping, counting and stat analysis.
-- Each step of the analysis is linked to a **docker** environment.
-
-### [Projet_fil_rouge_2024](https://github.com/JhonatanFelix/Projet_fil_rouge_2024) 🌾🧬⚠️
-
-*Various analysis to highlight genes which plays a role in stress response*
-
 ### [map_estimation_Ramp_Challenge](https://github.com/nicolasgeffroy/map_estimation_Ramp_Challenge)
 
 *Challenge to estimate the mean arterial pressure (MAP) from the non-invasive signals (ECG, PPG)*
 
 - Challenge tackled while studying in AMI2B (during my last engineering year)
 - Combinaison of Fourier Transformation and Grandient Boosting
+
+### [Projet_fil_rouge_2024](https://github.com/JhonatanFelix/Projet_fil_rouge_2024) 🌾🧬⚠️
+
+*Various analysis to highlight genes which plays a role in stress response*
+
+### [ReproHackathon_G6](https://github.com/raphaelrubrice/ReproHackathon_G6) 🔃🧬📄
+
+*Reproduce part of the results shown in the paper [Intracellular Staphylococcus aureus persisters upon antibiotic exposure](https://doi.org/10.1038/s41467-020-15966-7)*
+
+- Consist of a **Nextflow pipeline** of an RNA-Seq analysis, consisting of steps of trimming, mapping, counting and stat analysis.
+- Each step of the analysis is linked to a **docker** environment.
 
 ## ❓ And after ?
 
