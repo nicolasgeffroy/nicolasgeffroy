@@ -41,7 +41,7 @@ For reproducibility, I mainly use **Nextflow** (for workflow system) **Docker** 
 *Challenge to estimate the mean arterial pressure (MAP) from the non-invasive signals (ECG, PPG)*
 
 - Challenge tackled while studying in AMI2B (during my last engineering year)
-- Combinaison of Fourier Transformation and Grandient Boosting
+- Combinaison of Fourier Transformation and Gradient Boosting
 
 ### [Projet_fil_rouge_2024](https://github.com/JhonatanFelix/Projet_fil_rouge_2024) 🌾🧬⚠️
 
