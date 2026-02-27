@@ -47,6 +47,13 @@ For reproducibility, I mainly use **Nextflow** (for workflow system) **Docker** 
 
 *Various analysis to highlight genes which plays a role in stress response*
 
+### [map_estimation_Ramp_Challenge](https://github.com/nicolasgeffroy/map_estimation_Ramp_Challenge)
+
+*Challenge to estimate the mean arterial pressure (MAP) from the non-invasive signals (ECG, PPG)*
+
+- Challenge tackled while studying in AMI2B (during my last engineering year)
+- Combinaison of Fourier Transformation and Grandient Boosting
+
 ## ❓ And after ?
 
 - Keep updating the [Agrocam_agro_chara](https://github.com/nicolasgeffroy/agrocam_agro_chara) repository.
