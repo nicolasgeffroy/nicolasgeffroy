@@ -27,7 +27,7 @@ For reproducibility, I mainly use **Nextflow** (for workflow system) **Docker** 
 
 ## 📝 Projects (earliest to latest)
 
-### [Agrocam_agro_chara](https://github.com/nicolasgeffroy/agrocam_agro_chara) 🌳📸📈 (**STILL ONGOING**)
+### [Agrocam_vine_chara](https://github.com/nicolasgeffroy/agrocam_vine_chara) 🌳📸📈 (**STILL ONGOING**)
 
 *Extracts and predicts agronomic parameters from vineyard images*
 
