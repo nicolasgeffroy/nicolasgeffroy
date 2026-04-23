@@ -2,7 +2,7 @@
 
 ```mermaid
 graph TD;
-    A[<div style='width:800px; text-align\:center;'>Hello ! My name is Nicolas Geffroy, a Data Scientist interested by Natural Langage Processing and its application to fight disinformation, to understand human communication, to fight global warming and to help the medical sector. </div>]
+    A[<div style='width:800px; text-align\:center;'>Hello ! My name is Nicolas Geffroy, a Data Scientist willing to contribute fully to research in order to fight disinformation and global warming as well as to better understand human behavior and have better health. </div>]
     style A fill:white,color:black,radius:16px;
     linkStyle default stroke-width:0;
 ```
@@ -58,5 +58,4 @@ For reproducibility, I mainly use **Nextflow** (for workflow system) **Docker** 
 
 - Keep updating the [Agrocam_agro_chara](https://github.com/nicolasgeffroy/agrocam_agro_chara) repository.
 - Starting a project around analysing French National Assembly debates.
-- Starting a project to replace the bookmarks bar (in web browser) into an easier to use and less clutered interface.
 - **Looking for a PhD in NLP applied to the fight against disinformation** or other NLP application.
