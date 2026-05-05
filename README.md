@@ -27,7 +27,7 @@ For reproducibility, I mainly use **Nextflow** (for workflow system) **Docker** 
 
 ## 📝 Projects (earliest to latest)
 
-### [Agrocam_vine_chara](https://github.com/nicolasgeffroy/agrocam_vine_chara) 🌳📸📈 (**STILL ONGOING**)
+### [Agrocam_vine_chara](https://github.com/nicolasgeffroy/agrocam_vine_chara) 🌳📸📈
 
 *Extracts and predicts agronomic parameters from vineyard images*
 
@@ -56,6 +56,4 @@ For reproducibility, I mainly use **Nextflow** (for workflow system) **Docker** 
 
 ## ❓ And after ?
 
-- Keep updating the [Agrocam_agro_chara](https://github.com/nicolasgeffroy/agrocam_agro_chara) repository.
 - Starting a project around analysing French National Assembly debates.
-- **Looking for a PhD in NLP applied to the fight against disinformation** or other NLP application.
